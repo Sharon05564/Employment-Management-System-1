@@ -1,6 +1,6 @@
-=========================================
+=======================================
 Employee Management System (EMS)
-==========================================
+=======================================
 Description
 
 The Employee Management System (EMS) is a Python desktop application developed using customtkinter for the GUI and MySQL as the database to manage employee records. It allows users to add, update, delete, search, and display employees' details such as ID, name, phone number, role, gender, and salary. This system is intended for small to medium-sized organizations that need a straightforward and easy-to-use tool to manage their employee data.
