@@ -36,10 +36,6 @@ pymysql: Python library for MySQL database connectivity.
 
 Project Structure
 
-bash
-
-Copy code
-
 ├── main.py              # Main application file (EMS GUI)
 
 ├── database.py          # Database connection and queries
@@ -72,7 +68,6 @@ You can install the required Python packages by running:
 
 bash
 
-Copy code
 
 pip install customtkinter pillow pymysql
 
@@ -93,7 +88,6 @@ Open a terminal or command prompt in the project directory.
 Run the following command to start the application:
 bash
 
-Copy code
 
 python main.py
 
